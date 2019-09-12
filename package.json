@@ -1,0 +1,12 @@
+{
+  "name": "lyk",
+  "version": "0.1.0",
+  "description": "let u kno",
+  "author": "Reina Shintani",
+  "license": "ISC",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "github:reinaashin/lyk"
+  }
+}
